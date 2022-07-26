@@ -1,0 +1,215 @@
+<resources>
+    <string name="app_name">Destinasi Wisata</string>
+    <string name="imgLogo">Logo</string>
+    <!-- Main -->
+    <string name="txt_Main_Name">Syifa Amalia</string>
+    <string name="txt_Main_NIM">3420180019</string>
+    <string name="txt_Main_Email">blogsyifa@gmail.com</string>
+    <string name="action_language">Pengaturan Bahasa</string>
+    <string name="img_about">Tentang Saya</string>
+    <string name="imageView_Main_Banner">Banner</string>
+    <string name="txt_Tempat">Destinasi Wisata</string>
+    <string name="txt_Lokasi">Terletak</string>
+    <string name="txt_Alamat">Alamat Lengkap</string>
+    <string name="txt_Deskripsi">Deskripsi Singkat</string>
+    <string name="txt_Foto">Foto-foto Destinasi</string>
+    <string name="txt_Sejarah">Sejarah</string>
+    <string name="txt_Info">Info Lebih Lengkap</string>
+    <string name="img_List">Foto Utama</string>
+    <!-- List View -->
+    <string name="imageView_Template_Gambar">Template Image</string>
+    <string name="textView_Template_Header">Header</string>
+    <string name="textView_Template_Lokasi">Lokasi</string>
+    <string name="imageView_Detail_Banner">Detail Banner</string>
+    <string name="imageView_Detail_Gambar">Detail Picture</string>
+    <string name="textView_Detail_Header">EARTHSHAKER</string>
+    <string name="textView_List_Val">Value</string>
+    <!-- Nomor 1 -->
+    <string name="txt_judul1">Masjid Raya Baiturrahman</string>
+    <string name="txt_lok1">Kota Banda Aceh, Aceh</string>
+    <string name="txt_loklengkap1">Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Kota Banda Aceh, Aceh</string>
+    <string name="txt_desc1">
+        Destinasi wisata religi di Indonesia yang pertama adalah Masjid Baiturrahman yang telah  dibangun sejak era Kesultanan Aceh. Masjid ini juga sempat hancur akibat serangan Belanda, sebelum kemudian dibangun kembali pada 1879 - 1881 dengan arsitektur bergaya Moghul (India).
+    </string>
+    <string name="txt_sejarah1">
+        Masjid Raya yang asli dibangun pada tahun 1612 di masa pemerintahan Sultan Iskandar Muda. Ada juga yang mengatakan bahwa Masjid Raya Baiturrahman yang asli dibangun lebih awal pada tahun 1292 oleh Sultan Alaidin Mahmudsyah. Masjid Kerajaan yang asli menampilkan atap jerami berlapis-lapis yang merupakan fitur khas arsitektur Aceh.
+    </string>
+    <string name="txt_shortdesc1">
+        Selain itu, objek wisata religi di Indonesia satu ini terkenal karena kekokohannya yang tak hancur meskipun telah diterjang bencana Tsunami pada tahun 2004 silam.
+    </string>
+    <string name="img_no1_1">Foto Masjid Raya Baiturrahman</string>
+    <string name="img_no1_2">Foto Masjid Raya Baiturrahman</string>
+    <string name="img_no1_3">Foto Masjid Raya Baiturrahman</string>
+    <string name="img_no1_4">Foto Masjid Raya Baiturrahman</string>
+    <string name="img_no1_5">Foto Masjid Raya Baiturrahman</string>
+    <!-- Nomor 2 -->
+    <string name="txt_judul2">Masjid Cheng Ho</string>
+    <string name="txt_lok2">Kota Surabaya, Jawa Timur</string>
+    <string name="txt_loklengkap2">Jl. Gading No.2, Ketabang, Kec. Genteng, Kota SBY, Jawa Timur</string>
+    <string name="txt_desc2">
+        Laksamana Cheng Ho merupakan pelaut asal darat Tiongkok yang dipercaya turut berperan dalam persebaran agama Islam di Nusantara. Akan jasanya ini, ada banyak sekali masjid di Indonesia yang berdiri sebagai bentuk penghormatan kepada sosok Laksamana Cheng Ho, seperti Masjid Cheng Ho di Surabaya.
+    </string>
+    <string name="txt_sejarah2">
+        Pada abad ke 15 pada masa Dinasti Ming (1368-1643) orang-orang Tionghoa dari Yunnan mulai berdatangan untuk menyebarkan agama Islam, terutama di pulau Jawa. Yang kemudian Laksamana Cheng Ho (Admiral Zhang Hee) atau yang lebih dikenal dengan Sam Poo Kong atau Pompu Awang pada tahun 1410 dan tahun 1416 dengan armada yang dipimpinnya mendarat di pantai Simongan, Semarang. Selain itu dia juga sebagai utusan Kaisar Yung Lo untuk mengunjungi Raja Majapahit yang juga bertujuan untuk menyebarkan agama Islam. Untuk mengenang perjuangan dan dakwah Laksamana Cheng Hoo dan warga Tionghoa muslim juga ingin memiliki sebuah masjid dengan gaya Tionghoa maka pada tanggal 13 Oktober 2002 diresmikan Masjid dengan arsitektur Tiongkok ini.
+    </string>
+    <string name="txt_shortdesc2">
+        Tak cuma di Surabaya, di Palembang juga terdapat Masjid Cheng Ho yang bisa jadi alternatif wisata religi di Indonesa lainnya. Sama seperti Masjid Cheng Ho di Surabaya, Masjid Cheng Ho di Palembang juga tampil unik dengan arstektur perpaduan unsur Cina, Melayu, dan juga Nusantara.
+    </string>
+    <string name="img_no2_1">Foto Masjid Cheng Ho</string>
+    <string name="img_no2_2">Foto Masjid Cheng Ho</string>
+    <string name="img_no2_3">Foto Masjid Cheng Ho</string>
+    <string name="img_no2_4">Foto Masjid Cheng Ho</string>
+    <string name="img_no2_5">Foto Masjid Cheng Ho</string>
+    <!-- Nomor 3 -->
+    <string name="txt_judul3">Masjid Agung Jawa Tengah, Semarang</string>
+    <string name="txt_lok3">Kota Semarang, Jawa Tengah</string>
+    <string name="txt_loklengkap3">Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah</string>
+    <string name="txt_desc3">
+        Semenjak berdiri pada tahun 2006 dan diresmikan oleh Presiden Susilo Bambang Yudhoyono, Masjid Agung Jawa Tengah yang berlokasi di Semarang menjadi salah satu destinasi wisata religi terbaik di Indonesia. Masjid ini berdiri di atas lahan 10 hektar dan memiliki gaya arsitek perpaduan Jawa, Islam, dan Romawi.
+    </string>
+    <string name="txt_sejarah3">
+        Keberadaan bangunan masjid ini tak lepas dari Masjid Besar Kauman Semarang. Pembangunan MAJT berawal dari kembalinya tanah banda (harta) wakaf milik Masjid Besar Kauman Semarang yang telah sekian lama tak tentu rimbanya. Raibnya banda wakaf Masjid Besar Kauman Semarang berawal dari proses tukar guling tanah wakaf Masjid Kauman seluas 119.127 ha yang dikelola oleh BKM (Badan Kesejahteraan Masjid) bentukan Bidang Urusan Agama Depag Jawa Tengah. Dengan alasan tanah itu tidak produktif, oleh BKM tanah itu di tukar guling dengan tanah seluas 250 ha di Demak lewat PT. Sambirejo. Kemudian berpindah tangan ke PT. Tensindo milik Tjipto Siswoyo.
+    </string>
+    <string name="txt_shortdesc3">
+        Dari awal masa pembangunan, masjid ini memang telah dipersiapkan sebagai obyek wisata religi di Indonesia. Maka tak heran, Masjid Agung ini dilengkapi dengan wisma penginapan berkapasitas 23 kamar. Jadi, para peziarah yang ingin bermalam di tempat ibadah ini selagi melakukan wisata religi dapat bermalam dan memanfaatkan fasilitas yang ada.
+    </string>
+    <string name="img_no3_1">Foto Masjid Agung Jawa Tengah, Semarang</string>
+    <string name="img_no3_2">Foto Masjid Agung Jawa Tengah, Semarang</string>
+    <string name="img_no3_3">Foto Masjid Agung Jawa Tengah, Semarang</string>
+    <string name="img_no3_4">Foto Masjid Agung Jawa Tengah, Semarang</string>
+    <string name="img_no3_5">Foto Masjid Agung Jawa Tengah, Semarang</string>
+    <!-- Nomor 4 -->
+    <string name="txt_judul4">Masjid Istiqlal</string>
+    <string name="txt_lok4">Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</string>
+    <string name="txt_loklengkap4">Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</string>
+    <string name="txt_desc4">
+        Rekomendasi wisata religi Indonesia terkahir ini memiliki popularitas tak kalah terkenal dari tujuan-tujuan wisata religi sebelumya. Tak menjadi masjid terbesar di Indonesia, Masjid Istiqlal bahkan menjadi masjid terbesar yang ada di Asia Tenggara, lho!
+    </string>
+    <string name="txt_sejarah4">
+        Setelah perang kemerdekaan Indonesia, mulai berkembang gagasan besar untuk mendirikan masjid nasional. Ide pembangunan masjid tercetus setelah empat tahun proklamasi kemerdekaan. Gagasan pembangunan masjid kenegaraan ini sejalan dengan tradisi bangsa Indonesia yang sejak zaman kerajaan purba pernah membangun bangunan monumental keagamaan yang melambangkan kejayaan negara. Misalnya pada zaman kerajaan Hindu-Buddha bangsa Indonesia telah berjaya membangun candi Borobudur dan Prambanan. Karena itulah pada masa kemerdekaan Indonesia terbit gagasan membangun masjid agung yang megah dan pantas menyandang predikat sebagai masjid negara berpenduduk muslim terbesar di dunia.
+    </string>
+    <string name="txt_shortdesc4">
+        Diprakarsai oleh Ir. Soekarno, Masjid Istiqlal yang mampu menampung hingga 200,000 jamaah ini tak pernah sepi, khususnya pada saat hari-hari besar umat Islam seperti Idul Fitri dan juga Idul Adha.
+    </string>
+    <string name="img_no4_1">Foto Masjid Istiqlal</string>
+    <string name="img_no4_2">Foto Masjid Istiqlal</string>
+    <string name="img_no4_3">Foto Masjid Istiqlal</string>
+    <string name="img_no4_4">Foto Masjid Istiqlal</string>
+    <string name="img_no4_5">Foto Masjid Istiqlal</string>
+    <!-- Nomor 5 -->
+    <string name="txt_judul5">Masjid Menara Kudus</string>
+    <string name="txt_lok5">Kota Jawa Tengah, Indonesia</string>
+    <string name="txt_loklengkap5">Jl. Menara, Pejaten, Kauman, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah</string>
+    <string name="txt_desc5">Merupakan peninggalan anggota Wali Songo, Masjid Menara Kudus terletak di daerah Kauman, Kecamatan Kota Kudus, Jawa Tengah. Dibangun pada masa Sunan Kudus menyebarkan agama Islam di daerah Kudus, tahun 1549 Masehi atau 856 Hijriah, masjid tersebut masih sangat lestari dan menjadi landmark bagi kota Kudus.</string>
+    <string name="txt_sejarah5">"Berdirinya Masjid Menara Kudus tidak terlepas dari peran Sunan Kudus sebagai penggagas dan pendiri. Sebagaimana Walisongo yang lainnya, Sunan Kudus menggunakan pendekatan kultural (budaya) dalam berdakwah. Ia mengadaptasi dan melakukan pribumisasi ajaran Islam di tengah masyarakat yang telah memiliki budaya mapan dalam pengaruh agama Hindu dan Buddha. Akulturasi budaya Hindu dan Budha dalam dakwah Islam yang dilakukan Sunan Kudus terlihat jelas pada arsitektur dan konsep bangunan Masjid Menara Kudus.     "</string>
+    <string name="txt_shortdesc5">"Masjid ini memiliki mitos, yaitu pejabat yang tak jujur bisa kehilangan jabatannya setelah melintas di lorong gapura Masjid saat mengenakan pakaian dinasnya.     "</string>
+    <string name="img_no5_1">Foto Masjid Menara Kudus</string>
+    <string name="img_no5_2">Foto Masjid Menara Kudus</string>
+    <string name="img_no5_3">Foto Masjid Menara Kudus</string>
+    <string name="img_no5_4">Foto Masjid Menara Kudus</string>
+    <string name="img_no5_5">Foto Masjid Menara Kudus</string>
+    <!-- Nomor 6 -->
+    <string name="txt_judul6">Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <string name="txt_lok6">Kota Tanggerang, Banten</string>
+    <string name="txt_loklengkap6">Jl. Kampung Bayur, RT.003/RW.004, Periuk Jaya, Kec. Periuk, Kota Tangerang, Banten</string>
+    <string name="txt_desc6">
+        Masjid Nurul Yakin didirikan oleh keturunan Arab bernama Syekh Al-Bakhir Mahdi yang meninggal tahun 2012. Digunakan sebagai tempat berziarah para pengunjungnya, Masjid Nurul Yakin memiliki bangunan unik dan berbeda dari masjid-masjid pada umumnya, yaitu jumlah pintunya yang banyak dan nyaris tak terhitung. Pintu-pintu tersebut berukuran cukup kecil sehingga Anda wajib hati-hati saat melintasinya.
+    </string>
+    <string name="txt_sejarah6">
+        Lalu kenapa dijuluki Masjid Pintu Seribu? jawaban ringkasnya adalah masjid tersebut memiliki banyak pintu yang tidak diketahui secara persis berapa pintu yang terdapat dalam masjid tersebut, seorang pengelola menyebut masjid Pintu Seribu sebenarnya memiliki 999 pintu namun digenapkan menjadi 1000.
+    </string>
+    <string name="txt_shortdesc6">Di tempat ini Anda diminta untuk mengingat akhirat dan dosa-dosa yang sudah Anda perbuat sebelumnya, hingga akhirnya Anda akan merasa lebih mensyukuri segala kehidupan yang dimiliki saat ini.</string>
+    <string name="img_no6_1">Foto Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <string name="img_no6_2">Foto Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <string name="img_no6_3">Foto Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <string name="img_no6_4">Foto Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <string name="img_no6_5">Foto Masjid Nurul Yakin (Masjid 1000 Pintu)</string>
+    <!-- Nomor 7 -->
+    <string name="txt_judul7">Makam Syekh Maulana Mansyuruddin</string>
+    <string name="txt_lok7">Kabupaten Pandeglang, Banten.</string>
+    <string name="txt_loklengkap7">Desa Cikadeun, Kecamatan Cipeucang, Kabupaten Pandeglang, Banten.</string>
+    <string name="txt_desc7">
+        Banyak yang menyatakan bahwa Syekh Maulana sebenarnya berasal dari Jawa Timur. Namun, beliau dikenal sebagai sosok yang sangat berjasa dalam menyebarkan ajaran agama Islam di Banten.
+    </string>
+    <string name="txt_sejarah7">Terletak di Desa Cikadeun, Kecamatan Cipeucang, Kabupaten Pandeglang, terdapat makam Syeikh Maulana Mansur yang masih ramai dikunjungi oleh masyarakat untuk berziarah. Syeikh Maulana Mansur merupakan nama ulama yang memiliki peran dalam penyebaran Islam di Pandeglang kala itu. Meskipun ada beberapa pendapat yang berkembang tentang sosok sebenarnya Syeikh Maulana Mansur tersebut.</string>
+    <string name="txt_shortdesc7">
+        Pada momen tertentu seperti menjelang bulan Ramadan, tempat ini pasti dipadati oleh masyarakat, baik dari Banten atau daerah lainnya.
+    </string>
+    <string name="img_no7_1">Foto Makam Syekh Maulana Mansyuruddin</string>
+    <string name="img_no7_2">Foto Makam Syekh Maulana Mansyuruddin</string>
+    <string name="img_no7_3">Foto Makam Syekh Maulana Mansyuruddin</string>
+    <string name="img_no7_4">Foto Makam Syekh Maulana Mansyuruddin</string>
+    <string name="img_no7_5">Foto Makam Syekh Maulana Mansyuruddin</string>
+    <!-- Nomor 8 -->
+    <string name="txt_judul8">Batu Quran</string>
+    <string name="txt_lok8">Kabupaten Pandeglang, Banten.</string>
+    <string name="txt_loklengkap8">Jalan Cikoromoy, Gunungsari, Kecamatan Cimanuk, Kabupaten Pandeglang, Banten.</string>
+    <string name="txt_desc8">
+        Lokasinya berada di kaki Gunung Karang. Batu Qur’an merupakan tempat ziarah yang memiliki sejarah yang unik. Penamaan Batu Qur’an berasal dari batu besar yang bertuliskan Alquran. Namun, masyrakat percaya hanya orang-orang yang memiliki ilmu tinggi yang bisa melihat tulisan Alquran di batu tersebut.
+    </string>
+    <string name="txt_sejarah8">
+        Dalam catatan sejarah, awal mula munculnya pemandian Batu Quran yang terletak di kaki Gunung Karang, tepatnya di Desa Kadubumbang, Kecamatan Cimanuk, Kabupaten Pandeglang berkaitan erat dengan Syekh Maulana Mansyur, ulama Banten yang terkenal di abad ke 15. Konon lokasi di mana Batu Quran ini dahulu diyakini adalah pijakan kaki Syekh Maulana Mansyur ketika hendak pergi berhaji ke tanah suci, Mekkah.
+    </string>
+    <string name="txt_shortdesc8">
+        Diyakini hanya orang dengan hati dan jiwa yang bersih bisa melihat tulisan Alquran pada batunya. Itupun terlebih dahulu harus melakukan beberapa proses ritual dengan izin Allah SWT seperti berpuasa, salat, dzikir dan memanjatkan doa kepada Allah SWT.
+    </string>
+    <string name="img_no8_1">Foto Batu Quran</string>
+    <string name="img_no8_2">Foto Batu Quran</string>
+    <string name="img_no8_3">Foto Batu Quran</string>
+    <string name="img_no8_4">Foto Batu Quran</string>
+    <string name="img_no8_5">Foto Batu Quran</string>
+    <!-- Nomor 9 -->
+    <string name="txt_judul9">Makam Imogiri</string>
+    <string name="txt_lok9">Kabupaten Bantul, Daerah Istimewa Yogyakarta</string>
+    <string name="txt_loklengkap9">Desa Girirejo dan Wukirsari, Kecamatan Imogiri, Kabupaten Bantul, Daerah Istimewa Yogyakarta</string>
+    <string name="txt_desc9">
+        Kompleks pemakaman Imogiri merupakan tempat wisata Islami di Yogyakarta yang banyak menyimpan sejarah karena menjadi tempat dimakamkannya semua Sultan yang pernah memimpin Kerajaan Mataram Jogja. Jika kesini, kamu akan merasakan kesejukan dan ketenangan, nggak lupa lokasinya juga sangat memesona karena asri dan lestari.
+    </string>
+    <string name="txt_sejarah9">
+        Ketika Sinuhun Hanyakrawati (Sinuhun Sedo Krapyak) meninggal, maka puteranya Kanjeng Gusti Pangeran Adipati Anom pada waktu sedo itu sedang pergi tirakat ke pegunungan Selatan. Sehingga sebagai wakil pemegang pemerintahan ialah Gusti Pangeran Martopuro. Sesudah setahun lamanya ia bertirakat, maka ia pulang dari pegunungan tersebut sebab sudah sedikit lama dicari-cari oleh penghulu Katangan, tapi sebelum menjadi penghulu. Pada tahun 1627, ia masuk ke kerajaan dan pemegang kekuasaan Mataram saat itu ialah Prabu Hanyakrakusuma. Tidak lama kemudian, pamannya meninggal seketika. Sesudah pamannya meninggal, Kanjeng Sultan Agung melemparkan pasir yang berasal dari Mekkah yang akhirnya pasir tersebut jatuh di Pegunungan Merak dan seterusnya Sinuhun segera membuat makam raja di pegunungan yang besar dan tinggi tersebut.
+    </string>
+    <string name="txt_shortdesc9">
+        Bangunan makamnya juga khas dan sering ada beberapa acara tradisional yang diadakan disini. Jika kamu beruntung dengan tepat waktu saat upacara dilaksanakan, akan bisa mengikuti acaranya. Dibangun tahun 1632 oleh Sultan Mataram III yaitu Prabu Hanyikrokusumo, makam ini sengaja diletakkan di perbukitan yang masih satu gugusan dengan pegunungan seribu.
+    </string>
+    <string name="img_no9_1">Foto Makam Imogiri</string>
+    <string name="img_no9_2">Foto Makam Imogiri</string>
+    <string name="img_no9_3">Foto Makam Imogiri</string>
+    <string name="img_no9_4">Foto Makam Imogiri</string>
+    <string name="img_no9_5">Foto Makam Imogiri</string>
+    <!-- Nomor 10 -->
+    <string name="txt_judul10">Petilasan Syaikh Jumadil Kubro</string>
+    <string name="txt_lok10">Kota Semarang, Jawa Tengah</string>
+    <string name="txt_loklengkap10">Jalan Raya Pantura, Tambakrejo, Kecamatan Gayamsari, Kota Semarang, Jawa Tengah</string>
+    <string name="txt_desc10">
+        Syaikh Jumadil Kubro merupakan salah satu tokoh penting penyebar agama Islam di Jawa pada masa kerajaan Majapahit. Beliau juga dianggap sebagai bapak dari para Walisongo karena menurut garis keturunan, ternyata Sunan Ampel dan Sunan Giri adalah cucu dari Syaikh Jumadil Kubro. Beliau merupakan Syeikh yang berasal dari Samarkand, Uzbekistan.
+    </string>
+    <string name="txt_sejarah10">
+        Syekh Jumadil Kubro berasal dari Samarkand, Uzbekistan, Asia Tengah. Beliau dikenal sebagai bapaknya para anggota Walisongo karena Sunan Ampel (Raden Rahmat) dan Sunan Giri (Raden Paku) adalah cucunya. Sementara Sunan Bonang dan Sunan Drajad menganggap Syekh Jumadil Kubro sebagai buyutnya. Sedangkan Sunan Kudus menganggap Syekh Jumadil Kubro merupakan cicitnya. Perjuangan Syekh Jumadil Kubro dalam menyebarkan agama Islam di Jawa dimulai pada masa Kerajaan Majapahit.
+    </string>
+    <string name="txt_shortdesc10">
+        Tempat wisata Islami di Yogyakarta satu ini banyak dikunjungi peziarah meskipun letaknya di dataran tinggi nggak jauh dari gunung Merapi. Selain itu pemandangan dari petilasan ini juga sangat indah dan menjadi salah satu spot wisata religi terbaik yang ada di Yogyakarta. Lokasi tepatnya ada di Bukit Turgo, Kaliurang, Kelurahan Hargobinangun, Kecamatan Pakem, Kabupaten Sleman.
+    </string>
+    <string name="img_no10_1">Foto Petilasan Syaikh Jumadil Kubro</string>
+    <string name="img_no10_2">Foto Petilasan Syaikh Jumadil Kubro</string>
+    <string name="img_no10_3">Foto Petilasan Syaikh Jumadil Kubro</string>
+    <string name="img_no10_4">Foto Petilasan Syaikh Jumadil Kubro</string>
+    <string name="img_no10_5">Foto Petilasan Syaikh Jumadil Kubro</string>
+    <!-- Nomor 11 -->
+    <string name="txt_judul11">Dusun Mlangi</string>
+    <string name="txt_lok11">Kabupaten Sleman, Yogyakarta.</string>
+    <string name="txt_loklengkap11">Desa Nogotirto, Kecamatan Gamping, Kabupaten Sleman, dan berada di barat kota Yogyakarta.</string>
+    <string name="txt_desc11">
+        Kamu ingin merasakan perkampungan islam yang syahdu? Tempat wisata Islami di Yogyakarta satu ini bisa menjadi rekomendasi yang tepat. Dusun Mlangi ini merupakan situs islam tertua di Yogyakarta tetapi bukan hanya masjid dan makam ikonik, tetapi kawasan dusun atau kampung ini merupakan lingkungan pusat pendidikan Islam yaitu adanya pondok pesantren yang sudah lama berdiri.
+    </string>
+    <string name="txt_sejarah11">
+        Letak Dusun Mlangi ada di Desa Nogotirto, Kecamatan Gamping, Kabupaten Sleman, dan berada di barat kota Yogyakarta. Dusun ini didirikan oleh Kiai Nur Iman yang merupakan kakak dari Hamengkubuwono I, hanya saja berbeda ibu. Beliau dikenal menjauhkan diri dari kehidupan politik keraton Yogyakarta dan mengasingkan diri kemudian mendedikasikan dirinya untuk pendidikan Islam di Dusun Mlangi.
+    </string>
+    <string name="txt_shortdesc11">
+        Suasana religi dari daerah ini sangat terasa dan menenangkan. Bangunan-bangunannya cukup indah sehingga bisa membuatmu betah berlama-lama disini. Adanya pondok pesantren dengan tradisi yang sudah lama dilestarikan juga menjadi daya Tarik tersendiri. Bahkan sudah banyak wisatawan mancaNegara yang berwisata disini dan merasakan kultur kehidupan Dusun Mlangi yang kental suasana religinya.
+    </string>
+    <string name="img_no11_1">Foto Dusun Mlangi</string>
+    <string name="img_no11_2">Foto Dusun Mlangi</string>
+    <string name="img_no11_3">Foto Dusun Mlangi</string>
+    <string name="img_no11_4">Foto Dusun Mlangi</string>
+    <string name="img_no11_5">Foto Dusun Mlangi</string>
+</resources>

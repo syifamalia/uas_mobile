@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Destinasi Wisata</string>
+    <string name="imgLogo">Logo</string>
+    <!-- Main -->
+    <string name="txt_Main_Name">Syifa Amalia</string>
+    <string name="txt_Main_NIM">3420180019</string>
+    <string name="txt_Main_Email">blogsyifa@gmail.com</string>
+    <string name="action_language">Language Setting</string>
+    <string name="img_about">About</string>
+    <string name="imageView_Main_Banner">Banner</string>
+    <string name="txt_Tempat">Travel Destinations</string>
+    <string name="txt_Lokasi">Located</string>
+    <string name="txt_Alamat">Complete Address</string>
+    <string name="txt_Deskripsi">Short Description</string>
+    <string name="txt_Foto">Destinations Photos</string>
+    <string name="txt_Sejarah">History</string>
+    <string name="txt_Info">More Details</string>
+    <string name="img_List">Main Photo</string>
+    <!-- List View -->
+    <string name="imageView_Template_Gambar">Template Image</string>
+    <string name="textView_Template_Header">Header</string>
+    <string name="textView_Template_Lokasi">Location</string>
+    <string name="imageView_Detail_Banner">Detail Banner</string>
+    <string name="imageView_Detail_Gambar">Detail Picture</string>
+    <string name="textView_Detail_Header">Header</string>
+    <string name="textView_List_Val">Value</string>
+    <!-- Nomor 1 -->
+    <string name="txt_judul1">Baiturrahman Grand Mosque</string>
+    <string name="txt_lok1">Banda Aceh City, Aceh</string>
+    <string name="txt_loklengkap1">Jl. Moh. Jam No.1, Kp. Baru, Kec. Baiturrahman, Banda Aceh City, Aceh</string>
+    <string name="txt_desc1">
+        The first religious tourism destination in Indonesia is the Baiturrahman Mosque which has been built since the era of the Aceh Sultanate. This mosque was also destroyed by the Dutch attack, before being rebuilt in 1879 - 1881 with Moghul (Indian) style architecture.
+    </string>
+    <string name="txt_sejarah1">
+        The original Grand Mosque was built in 1612 during the reign of Sultan Iskandar Muda. There are also those who say that the original Baiturrahman Grand Mosque was built earlier in 1292 by Sultan Alaidin Mahmudsyah. The original Royal Mosque features a multi-layered thatched roof which is a distinctive feature of Acehnese architecture.
+    </string>
+    <string name="txt_shortdesc1">
+        In addition, this one religious tourism object in Indonesia is famous for its sturdiness that has not been destroyed even though it was hit by the Tsunami disaster in 2004 ago.
+    </string>
+    <string name="img_no1_1">Baiturrahman Grand Mosque is photo</string>
+    <string name="img_no1_2">Baiturrahman Grand Mosque is photo</string>
+    <string name="img_no1_3">Baiturrahman Grand Mosque is photo</string>
+    <string name="img_no1_4">Baiturrahman Grand Mosque is photo</string>
+    <string name="img_no1_5">Baiturrahman Grand Mosque is photo</string>
+    <!-- Nomor 2 -->
+    <string name="txt_judul2">Cheng Ho Mosque</string>
+    <string name="txt_lok2">City of Surabaya, East Java</string>
+    <string name="txt_loklengkap2">Jl. Gading No.2, Ketabang, Kec. Genteng, City of Surabaya, East Java</string>
+    <string name="txt_desc2">
+        Admiral Zheng He is a sailor from mainland China who is believed to have played a role in the spread of Islam in the archipelago. For his services, there are many mosques in Indonesia that were established as a form of respect for the figure of Admiral Cheng Ho, such as the Cheng Ho Mosque in Surabaya.
+    </string>
+    <string name="txt_sejarah2">
+        In the 15th century during the Ming Dynasty (1368-1643) Chinese people from Yunnan began to arrive to spread Islam, especially on the island of Java. Then Admiral Cheng Ho (Admiral Zhang Hee) or better known as Sam Poo Kong or Pompu Awang in 1410 and 1416 with the fleet he led landed on Simongan beach, Semarang. In addition, he was also the envoy of Emperor Yung Lo to visit the King of Majapahit who also aimed to spread Islam. To commemorate the struggle and dawah of Admiral Cheng Hoo and Chinese Muslims who also wanted to have a mosque with a Chinese style, on October 13, 2002, this mosque with Chinese architecture was inaugurated.
+    </string>
+    <string name="txt_shortdesc2">
+        Not only in Surabaya, in Palembang there is also the Cheng Ho Mosque which can be an alternative to other religious tourism in Indonesia. Just like the Cheng Ho Mosque in Surabaya, the Cheng Ho Mosque in Palembang also looks unique with an architecture that combines elements of Chinese, Malay, and also Nusantara.
+    </string>
+    <string name="img_no2_1">Cheng Ho Mosque Photo</string>
+    <string name="img_no2_2">Cheng Ho Mosque Photo</string>
+    <string name="img_no2_3">Cheng Ho Mosque Photo</string>
+    <string name="img_no2_4">Cheng Ho Mosque Photo</string>
+    <string name="img_no2_5">Cheng Ho Mosque Photo</string>
+    <!-- Nomor 3 -->
+    <string name="txt_judul3">Great Mosque of Central Java, Semarang</string>
+    <string name="txt_lok3">Semarang City, Central Java</string>
+    <string name="txt_loklengkap3">Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Semarang City, Central Java</string>
+    <string name="txt_desc3">
+        Since its establishment in 2006 and inaugurated by President Susilo Bambang Yudhoyono, the Great Mosque of Central Java, located in Semarang, has become one of the best religious tourism destinations in Indonesia. This mosque stands on 10 hectares of land and has a blend of Javanese, Islamic and Roman architectural styles.
+    </string>
+    <string name="txt_sejarah3">
+        The existence of this mosque building can not be separated from the Great Mosque of Kauman Semarang. The construction of MAJT started with the return of waqf banda land (treasury) belonging to the Great Mosque of Kauman Semarang, which had been uncertain for a long time. The disappearance of the waqf banda of the Kauman Grand Mosque in Semarang began with the process of exchanging waqf land for the Kauman Mosque covering an area of 119,127 ha which is managed by the BKM (Mass Welfare Agency) formed by the Religious Affairs Division of the Ministry of Religion, Central Java. With the reason that the land was not productive, by BKM the land was exchanged for 250 ha of land in Demak through PT. Sambirejo. Then changed hands to PT. Tensindo belongs to Tjipto Siswoyo.
+    </string>
+    <string name="txt_shortdesc3">
+        From the beginning of the construction period, this mosque has indeed been prepared as a religious tourism object in Indonesia. So no wonder, the Great Mosque is equipped with a guesthouse with a capacity of 23 rooms. So, pilgrims who want to spend the night at this place of worship while doing religious tourism can spend the night and take advantage of the existing facilities.
+    </string>
+    <string name="img_no3_1">Photo of the Great Mosque of Central Java, Semarang</string>
+    <string name="img_no3_2">Photo of the Great Mosque of Central Java, Semarang</string>
+    <string name="img_no3_3">Photo of the Great Mosque of Central Java, Semarang</string>
+    <string name="img_no3_4">Photo of the Great Mosque of Central Java, Semarang</string>
+    <string name="img_no3_5">Photo of the Great Mosque of Central Java, Semarang</string>
+    <!-- Nomor 4 -->
+    <string name="txt_judul4">Istiqlal Mosque</string>
+    <string name="txt_lok4">Central Jakarta City, Special Capital Region of Jakarta</string>
+    <string name="txt_loklengkap4">Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Central Jakarta City, Special Capital Region of Jakarta</string>
+    <string name="txt_desc4">
+        This latest recommendation for Indonesian religious tourism has no less popularity than previous religious tourism destinations. Not being the largest mosque in Indonesia, the Istiqlal Mosque is even the largest mosque in Southeast Asia, you know!
+    </string>
+    <string name="txt_sejarah4">
+        After Indonesia is war of independence, the big idea began to develop to build a national mosque. The idea of building a mosque was born after four years of the proclamation of independence. The idea of building a state mosque is in line with the traditions of the Indonesian people, which since the ancient kingdoms had built religious monumental buildings that symbolized the glory of the country. For example, in the days of the Hindu-Buddhist kingdoms, the Indonesians had succeeded in building the temples of Borobudur and Prambanan. Thats why at the time of Indonesia is independence, the idea of building a grand mosque that was majestic and worthy of the title as the countrys mosque with the largest Muslim population in the world emerged.
+    </string>
+    <string name="txt_shortdesc4">
+        Initiated by Ir. Soekarno, the Istiqlal Mosque which can accommodate up to 200,000 worshipers is never empty, especially during major Muslim holidays such as Eid al-Fitr and Eid al-Adha.
+    </string>
+    <string name="img_no4_1">Istiqlal Mosques photo</string>
+    <string name="img_no4_2">Istiqlal Mosque\'s photo</string>
+    <string name="img_no4_3">Istiqlal Mosque\'s photo</string>
+    <string name="img_no4_4">Istiqlal Mosque\'s photo</string>
+    <string name="img_no4_5">Istiqlal Mosque\'s photo</string>
+    <!-- Nomor 5 -->
+    <string name="txt_judul5">Holy Tower Mosque</string>
+    <string name="txt_lok5">Central Java, Indonesia</string>
+    <string name="txt_loklengkap5">Jl. Menara, Pejaten, Kauman, Kec. Kota Kudus, Kabupaten Kudus, Central Java</string>
+    <string name="txt_desc5">A legacy of Wali Songo members, the Menara Kudus Mosque is located in the Kauman area, Kudus City District, Central Java. Built during the time when Sunan Kudus spread Islam in the Kudus area, in 1549 AD or 856 Hijri, the mosque is still very well preserved and has become a landmark for the city of Kudus.</string>
+    <string name="txt_sejarah5">The establishment of the Menara Kudus Mosque is inseparable from the role of Sunan Kudus as the initiator and founder. Like the other Walisongo, Sunan Kudus uses a cultural (cultural) approach in preaching. He adapted and indigenized Islamic teachings in a society that already had an established culture under the influence of Hinduism and Buddhism. The acculturation of Hindu and Buddhist cultures in Sunan Kudus\'s Islamic da\'wah is evident in the architecture and concept of the Menara Kudus Mosque building.</string>
+    <string name="txt_shortdesc5">This mosque has a myth, namely that dishonest officials can lose their positions after crossing the aisles of the mosque gates while wearing their official clothes.</string>
+    <string name="img_no5_1">Holy Tower Mosque Photos</string>
+    <string name="img_no5_2">Holy Tower Mosque Photos</string>
+    <string name="img_no5_3">Holy Tower Mosque Photos</string>
+    <string name="img_no5_4">Holy Tower Mosque Photos</string>
+    <string name="img_no5_5">Holy Tower Mosque Photos</string>
+    <!-- Nomor 6 -->
+    <string name="txt_judul6">Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <string name="txt_lok6">Tangerang City, Banten</string>
+    <string name="txt_loklengkap6">Jl. Kampung Bayur, RT.003/RW.004, Periuk Jaya, Kec. Periuk, Tangerang City, Banten</string>
+    <string name="txt_desc6">The Nurul Yakin Mosque was founded by an Arab descendant named Sheikh Al-Bakhir Mahdi who died in 2012. Used as a place of pilgrimage for its visitors, the Nurul Yakin Mosque has a unique building and is different from other mosques in general, namely the number of doors that are many and almost countless. The doors are quite small so you must be careful when crossing them.</string>
+    <string name="txt_sejarah6">Then why is it called the Thousand Doors Mosque? the short answer is that the mosque has many doors which it is not known exactly how many doors are in the mosque, a manager said that the Thousand Doors mosque actually has 999 doors but it is fulfilled to 1000.</string>
+    <string name="txt_shortdesc6">In this place you are asked to remember the hereafter and the sins you have committed before, until finally you will feel more grateful for all the life you have today.</string>
+    <string name="img_no6_1">Photo of Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <string name="img_no6_2">Photo of Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <string name="img_no6_3">Photo of Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <string name="img_no6_4">Photo of Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <string name="img_no6_5">Photo of Nurul Yakin Mosque (1000 Doors Mosque)</string>
+    <!-- Nomor 7 -->
+    <string name="txt_judul7">Tomb of Sheikh Maulana Mansyuruddin</string>
+    <string name="txt_lok7">Pandeglang Regency, Banten.</string>
+    <string name="txt_loklengkap7">Desa Cikadeun, Kecamatan Cipeucang, Pandeglang Regency, Banten.</string>
+    <string name="txt_desc7">Many claim that Sheikh Maulana actually came from East Java. However, he is known as a very meritorious figure in spreading the teachings of Islam in Banten.</string>
+    <string name="txt_sejarah7">Located in Cikadeun Village, Cipeucang District, Pandeglang Regency, there is the tomb of Sheikh Maulana Mansur which is still crowded with people for pilgrimages. Sheikh Maulana Mansur was the name of a cleric who had a role in the spread of Islam in Pandeglang at that time. Although there are several opinions that develop about the real figure of Sheikh Maulana Mansur.</string>
+    <string name="txt_shortdesc7">At certain moments such as the month of Ramadan, this place is definitely packed with people, both from Banten or other areas.</string>
+    <string name="img_no7_1">Photo of Sheikh Maulana Mansyuruddin\'s Tomb</string>
+    <string name="img_no7_2">Photo of Sheikh Maulana Mansyuruddin\'s Tomb</string>
+    <string name="img_no7_3">Photo of Sheikh Maulana Mansyuruddin\'s Tomb</string>
+    <string name="img_no7_4">Photo of Sheikh Maulana Mansyuruddin\'s Tomb</string>
+    <string name="img_no7_5">Photo of Sheikh Maulana Mansyuruddin\'s Tomb</string>
+    <!-- Nomor 8 -->
+    <string name="txt_judul8">Quran Rock</string>
+    <string name="txt_lok8">Pandeglang Regency, Banten.</string>
+    <string name="txt_loklengkap8">Jalan Cikoromoy, Gunungsari, Kecamatan Cimanuk, Pandeglang Regency, Banten.</string>
+    <string name="txt_desc8">The location is at the foot of Mount Karang. The stone of the Qur\'an is a place of pilgrimage that has a unique history. The naming of the Qur\'an Stone comes from a large stone inscribed with the Qur\'an. However, people believe that only people who have high knowledge can see the writings of the Koran on the stone.</string>
+    <string name="txt_sejarah8">In historical records, the beginning of the emergence of the Batu Quran baths located at the foot of Mount Karang, precisely in Kadubumbang Village, Cimanuk District, Pandeglang Regency is closely related to Sheikh Maulana Mansyur, a famous Banten cleric in the 15th century. It is said that the location where the Quran Stone is Previously it was believed to be the foothold of Sheikh Maulana Mansyur when he was about to go on pilgrimage to the holy land, Mecca.</string>
+    <string name="txt_shortdesc8">It is believed that only people with a clean heart and soul can see the writings of the Koran on the stone. Even then, you must first carry out several ritual processes with the permission of Allah SWT such as fasting, praying, dhikr and praying to Allah SWT.</string>
+    <string name="img_no8_1">Quran Rock Photos</string>
+    <string name="img_no8_2">Quran Rock Photos</string>
+    <string name="img_no8_3">Quran Rock Photos</string>
+    <string name="img_no8_4">Quran Rock Photos</string>
+    <string name="img_no8_5">Quran Rock Photos</string>
+    <!-- Nomor 9 -->
+    <string name="txt_judul9">Imogiri Tomb</string>
+    <string name="txt_lok9">Bantul Regency, Special Region of Yogyakarta</string>
+    <string name="txt_loklengkap9">Desa Girirejo dan Wukirsari, Kecamatan Imogiri, Bantul Regency, Special Region of Yogyakarta</string>
+    <string name="txt_desc9">The Imogiri burial complex is an Islamic tourist spot in Yogyakarta which holds a lot of history because it is the burial place of all the Sultans who once led the Yogyakarta Mataram Kingdom. If you come here, you will feel cool and calm, don\'t forget the location is also very charming because it is beautiful and sustainable.</string>
+    <string name="txt_sejarah9">When Sinuhun Hanyakrawati (Sinuhun Sedo Krapyak) died, his son Kanjeng Gusti Pangeran Adipati Anom at the time of Sedo was going to repentance to the Southern mountains. So as the representative of the government holder is Gusti Pangeran Martopuro. After a year he prayed, then he returned from the mountains because the head of Katangan had been looking for it for a long time, but before becoming a ruler. In 1627, he entered the kingdom and the holder of Mataram\'s power at that time was Prabu Hanyakrakusuma. Not long after, his uncle died instantly. After his uncle died, Kanjeng Sultan Agung threw sand from Mecca which finally the sand fell on the Peacock Mountains and so Sinuhun immediately made the king\'s tomb in the big and high mountains.</string>
+    <string name="txt_shortdesc9">The building of the tomb is also distinctive and there are often several traditional events held here. If you are lucky to be on time when the ceremony is held, you will be able to follow the event. Built in 1632 by the Sultan of Mataram III, namely Prabu Hanyikrokusumo, this tomb was deliberately placed in the hills which are still one cluster with a thousand mountains.</string>
+    <string name="img_no9_1">Imogiri Tomb Photos</string>
+    <string name="img_no9_2">Imogiri Tomb Photos</string>
+    <string name="img_no9_3">Imogiri Tomb Photos</string>
+    <string name="img_no9_4">Imogiri Tomb Photos</string>
+    <string name="img_no9_5">Imogiri Tomb Photos</string>
+    <!-- Nomor 10 -->
+    <string name="txt_judul10">Shaykh Jumadil Kubro\'s Petilasan</string>
+    <string name="txt_lok10">Semarang City, Central Java</string>
+    <string name="txt_loklengkap10">Jalan Raya Pantura, Tambakrejo, Kecamatan Gayamsari, Semarang City, Central Java</string>
+    <string name="txt_desc10">Shaykh Jumadil Kubro was one of the important figures who spread Islam in Java during the Majapahit kingdom. He is also considered the father of the Walisongo because according to lineage, it turns out that Sunan Ampel and Sunan Giri are the grandsons of Shaykh Jumadil Kubro. He is a Sheikh from Samarkand, Uzbekistan.</string>
+    <string name="txt_sejarah10">Sheikh Jumadil Kubro is from Samarkand, Uzbekistan, Central Asia. He is known as the father of the Walisongo members because Sunan Ampel (Raden Rahmat) and Sunan Giri (Raden Paku) are his grandchildren. Meanwhile, Sunan Bonang and Sunan Drajad consider Sheikh Jumadil Kubro as his great-grandfather. Meanwhile, Sunan Kudus considers Sheikh Jumadil Kubro to be his great-grandson. Syekh Jumadil Kubro\'s struggle in spreading Islam in Java began during the Majapahit Kingdom.</string>
+    <string name="txt_shortdesc10">This Islamic tourist spot in Yogyakarta is visited by many pilgrims even though it is located in the highlands not far from Mount Merapi. In addition, the view from this petilasan is also very beautiful and has become one of the best religious tourist spots in Yogyakarta. The exact location is in Turgo Hill, Kaliurang, Hargobinangun Village, Pakem District, Sleman Regency.</string>
+    <string name="img_no10_1">Photo of Sheikh Jumadil Kubro\'s Petilasan</string>
+    <string name="img_no10_2">Photo of Sheikh Jumadil Kubro\'s Petilasan</string>
+    <string name="img_no10_3">Photo of Sheikh Jumadil Kubro\'s Petilasan</string>
+    <string name="img_no10_4">Photo of Sheikh Jumadil Kubro\'s Petilasan</string>
+    <string name="img_no10_5">Photo of Sheikh Jumadil Kubro\'s Petilasan</string>
+    <!-- Nomor 11 -->
+    <string name="txt_judul11">Mlangi Hamlet</string>
+    <string name="txt_lok11">Sleman Regency, Yogyakarta.</string>
+    <string name="txt_loklengkap11">Desa Nogotirto, Kecamatan Gamping, Sleman Regency, and is located in the west of the city of Yogyakarta.</string>
+    <string name="txt_desc11">You want to feel a serene Islamic village? This Islamic tourist spot in Yogyakarta can be the right recommendation. This Mlangi hamlet is the oldest Islamic site in Yogyakarta, but it is not only an iconic mosque and tomb, but this hamlet or village area is a center for Islamic education, namely the existence of a long-established Islamic boarding school.</string>
+    <string name="txt_sejarah11">Mlangi Hamlet is located in Nogotirto Village, Gamping District, Sleman Regency, and is located in the west of the city of Yogyakarta. This hamlet was founded by Kiai Nur Iman, who is the older brother of Hamengkubuwono I, only with a different mother. He is known to distance himself from the political life of the Yogyakarta palace and isolate himself and then dedicate himself to Islamic education in Mlangi Hamlet.</string>
+    <string name="txt_shortdesc11">The religious atmosphere of this area is very pronounced and soothing. The buildings are beautiful enough to make you feel at home for a long time here. The existence of a boarding school with a long-preserved tradition is also an attraction in itself. In fact, many foreign tourists have traveled here and have experienced the life culture of Mlangi Hamlet, which has a strong religious atmosphere.</string>
+    <string name="img_no11_1">Mlangi Village Photo</string>
+    <string name="img_no11_2">Mlangi Village Photo</string>
+    <string name="img_no11_3">Mlangi Village Photo</string>
+    <string name="img_no11_4">Mlangi Village Photo</string>
+    <string name="img_no11_5">Mlangi Village Photo</string>
+</resources>

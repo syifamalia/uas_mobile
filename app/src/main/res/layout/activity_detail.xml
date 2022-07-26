@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".DetailActivity">
+
+        <ImageView
+            android:id="@+id/imageView_Detail_Banner"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:contentDescription="@string/imageView_Main_Banner"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/banner" />
+
+        <ImageView
+            android:id="@+id/imageView_Detail_Gambar"
+            android:layout_width="140dp"
+            android:layout_height="230dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="26dp"
+            android:contentDescription="@string/img_no1_1"
+            android:scaleType="fitXY"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_Detail_Banner"
+            app:srcCompat="@drawable/nsutama"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/textView_Header"
+            style="@style/textView_Header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_Tempat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_Detail_Banner" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Header"
+            style="@style/textView_Header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_judul1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Header" />
+
+        <TextView
+            android:id="@+id/textView_Lokasi"
+            style="@style/textView_Dua"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_Lokasi"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Header" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Lokasi"
+            style="@style/textView_Desc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_lok1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Lokasi" />
+
+        <TextView
+            android:id="@+id/textView_Alamat"
+            style="@style/textView_Dua"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_Alamat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Lokasi" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Alamat"
+            style="@style/textView_Desc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_loklengkap1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Alamat" />
+
+        <TextView
+            android:id="@+id/textView_Deskripsi"
+            style="@style/textView_Dua"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_Deskripsi"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Alamat" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Deskripsi"
+            style="@style/textView_Desc"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/txt_desc1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Detail_Gambar"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Deskripsi" />
+
+        <TextView
+            android:id="@+id/textView_ViewDestinasi"
+            style="@style/textView_Header"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="36dp"
+            android:text="@string/txt_Foto"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageView_Gambar1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="16dp"
+            android:contentDescription="@string/img_no1_2"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/imageView_Gambar2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_ViewDestinasi"
+            app:srcCompat="@drawable/nsdua" />
+
+        <ImageView
+            android:id="@+id/imageView_Gambar2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:contentDescription="@string/img_no1_2"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toStartOf="@+id/imageView_Gambar3"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Gambar1"
+            app:layout_constraintTop_toBottomOf="@+id/textView_ViewDestinasi"
+            app:srcCompat="@drawable/nstiga" />
+
+        <ImageView
+            android:id="@+id/imageView_Gambar3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:contentDescription="@string/img_no1_2"
+            android:scaleType="fitXY"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Gambar2"
+            app:layout_constraintTop_toBottomOf="@+id/textView_ViewDestinasi"
+            app:srcCompat="@drawable/nsempat"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/textView_Caption1"
+            style="@style/textView_Dua"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/img_no1_1"
+            app:layout_constraintEnd_toStartOf="@+id/textView_Caption2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_Gambar1" />
+
+        <TextView
+            android:id="@+id/textView_Caption2"
+            style="@style/textView_Dua"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/img_no1_1"
+            app:layout_constraintEnd_toStartOf="@+id/textView_Caption3"
+            app:layout_constraintStart_toEndOf="@+id/textView_Caption1"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_Gambar1" />
+
+        <TextView
+            android:id="@+id/textView_Caption3"
+            style="@style/textView_Dua"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="24dp"
+            android:text="@string/img_no1_1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/textView_Caption2"
+            app:layout_constraintTop_toBottomOf="@+id/imageView_Gambar1" />
+
+        <TextView
+            android:id="@+id/textView_Sejarah"
+            style="@style/textView_Header"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="36dp"
+            android:text="@string/txt_Sejarah"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Caption1" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Sejarah"
+            style="@style/textView_Desc"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="32dp"
+            android:text="@string/txt_sejarah1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Sejarah" />
+
+        <TextView
+            android:id="@+id/textView_Info"
+            style="@style/textView_Header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="36dp"
+            android:text="@string/txt_Info"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Sejarah" />
+
+        <ImageView
+            android:id="@+id/imageView_Gambar4"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="32dp"
+            android:contentDescription="@string/img_no1_5"
+            android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/textView_Detail_Info"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Info"
+            app:srcCompat="@drawable/nslimaa"
+            tools:ignore="ImageContrastCheck" />
+
+        <TextView
+            android:id="@+id/textView_Detail_Info"
+            style="@style/textView_Desc"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="24dp"
+            android:text="@string/txt_shortdesc1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView_Gambar4"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Info" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</ScrollView>
